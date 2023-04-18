@@ -1,0 +1,12 @@
+#include<stdio.h>
+main()
+{
+	printf("-\t-\t-\t-\t-\n");
+	printf("|\t\t\t\t|\n");
+	printf("T\t\t\t\t|\n");
+	printf("U\t\t\t\t|\n");
+	printf("L\t\t\t\t|\n");
+	printf("I\t\t\t\t|\n");
+	printf("|\t\t\t\t|\n");
+	printf("-\t-\t-\t-\t-\n");
+}
